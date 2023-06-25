@@ -1,9 +1,9 @@
 ## Rafael Batista
 
-✅ Power BI
-✅ Data Sciene
-✅ Machine Learning
-✅ Deep Learning
+✅ Power BI <br>
+✅ Data Sciene<br>
+✅ Machine Learning<br>
+✅ Deep Learning<br>
   
 ##
 
