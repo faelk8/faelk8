@@ -1,9 +1,8 @@
 ## Rafael Batista
 
-✅ Power BI <br>
+✅ Análise de Dados<br>
 ✅ Data Sciene<br>
-✅ Machine Learning<br>
-✅ Deep Learning<br>
+✅ Data Engineer<br
   
 ##
 
