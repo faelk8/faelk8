@@ -8,7 +8,7 @@
 
 <div>
     <a href="https://github.com/faelk8/">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=faelk8&theme=dark&show_icons=true&include_all_commits=true"/>
+    < !-- -- >  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=faelk8&theme=dark&show_icons=true&include_all_commits=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faelk8&theme=dark&layout=compact&langs_count16&"/>
 </div>
       
