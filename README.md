@@ -1,6 +1,5 @@
 >## Rafael Batista
 
-✅ Análise de Dados<br>
 ✅ Data Sciene<br>
 ✅ Data Engineer<br>
   
