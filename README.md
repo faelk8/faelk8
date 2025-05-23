@@ -13,20 +13,19 @@
       
 ##        
 <div style="display: inline_block"><br>
+    <img align="center" alt="Rafael-Kafka" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original.svg">
+    <img align="center" alt="Rafael-Airflow" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/apacheairflow/apacheairflow-original.svg">
     <img align="center" alt="Rafael-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="Rafael-Jupyter" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg">
     <img align="center" alt="Rafael-R" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg">  
+    <img align="center" alt="Rafael-Postgresql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
     <img align="center" alt="Rafael-Sqlserver" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"> 
-    <img align="center" alt="Rafael-Mysql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg"> 
-    <img align="center" alt="Rafael-Anaconda" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg">
-    <img align="center" alt="Rafael-Pandas" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg">
-    <img align="center" alt="Rafael-Numpy" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg">
     <img align="center" alt="Rafael-PyTorch" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg">
     <img align="center" alt="Rafael-TensorFlow" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg">
     <img align="center" alt="Rafael-Kaggle" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original-wordmark.svg">
     <img align="center" alt="Rafael-VS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
-    <img align="center" alt="Rafael-Ubuntu" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg">
-  
+    <img align="center" alt="Rafael-Ubuntu" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg">
+    <img align="center" alt="Rafael-Docker" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
 </div>
 
 ##
