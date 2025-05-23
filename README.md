@@ -1,8 +1,25 @@
 >## Rafael Batista
 
-✅ Data Sciene<br>
-✅ Data Engineer<br>
-  
+Sou Analista de Dados, Engenheiro e Cientist. Apaixonado por transformar dados em insights e soluções reais. Tenho um perfil analítico , com experiência prática no desenvolvimento de pipelines de dados, dashboards interativos, e modelos de machine learning e deep learning.
+
+## 💼 O que eu faço
+
+- 🔍 **Análise de Dados**: Exploração de dados com foco em **insights acionáveis** e **dashboards interativos**.
+- 🧠 **Machine Learning & Deep Learning**: Desenvolvimento de modelos preditivos com foco em **sistemas de recomendação**, **classificação de padrões** e **fraudes**.
+- ⚙️ **Engenharia e Orquestração de Dados**: Implementação de pipelines com **Apache Kafka**, **Apache Airflow** e integração de dados em larga escala.
+- 📡 **Streams de Dados e Monitoramento**:
+  - Uso de **Kafka** e **KSQL** para análise de dados em tempo real.
+- 📊 **Estatística Aplicada**: Validação de hipóteses, testes estatísticos e métricas para modelos preditivos.
+- 🐍 **Pythonista**: Desenvolvo soluções completas em Python, utilizando bibliotecas como `pandas`, `scikit-learn`, `TensorFlow`, `matplotlib`, entre outras.
+
+## 🚀 Algumas tecnologias com as quais trabalho
+
+- **Linguagens**: Python, SQL, NoSQL
+- **Ferramentas de Machine Learning**: Scikit-learn, TensorFlow, Keras, Pytorch
+- **Engenharia de Dados**: Apache Kafka, Airflow, Spark
+- **Visualização**: Power BI, Looker Studio, Superset
+- **DevOps e Integrações**: Docker, Git
+
 ##
 
 <div>
@@ -19,6 +36,7 @@
     <img align="center" alt="Rafael-Jupyter" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg">
     <img align="center" alt="Rafael-R" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg">  
     <img align="center" alt="Rafael-Postgresql" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
+    <img align="center" alt="Rafael-Mongo" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg">
     <img align="center" alt="Rafael-Sqlserver" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"> 
     <img align="center" alt="Rafael-PyTorch" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg">
     <img align="center" alt="Rafael-TensorFlow" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg">
