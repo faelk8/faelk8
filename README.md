@@ -1,4 +1,4 @@
->## Rafael Batista
+## Rafael Batista
 
 Sou Analista de Dados, Engenheiro e Cientist. Apaixonado por transformar dados em insights e soluções reais. Tenho um perfil analítico , com experiência prática no desenvolvimento de pipelines de dados, dashboards interativos, e modelos de machine learning e deep learning.
 
