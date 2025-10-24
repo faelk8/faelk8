@@ -1,8 +1,8 @@
 ## Rafael Batista
 
-Analista de Dados
-Engenheiro de Dados
-Cientista de Dados
+Analista de Dados <br>
+Engenheiro de Dados <br>
+Cientista de Dados <br>
 
 
 
