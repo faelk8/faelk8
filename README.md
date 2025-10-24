@@ -1,25 +1,8 @@
 ## Rafael Batista
 
-Sou Analista de Dados, Engenheiro e Cientista. Apaixonado por transformar dados em insights e soluções reais. Tenho um perfil analítico, com experiência prática no desenvolvimento de pipelines de dados, dashboards interativos, e modelos de machine learning e deep learning.
-
-## 💼 O que eu faço
-
-- 🔍 **Análise de Dados**: Exploração de dados com foco em **insights acionáveis** e **dashboards interativos**.
-- 🧠 **Machine Learning & Deep Learning**: Desenvolvimento de modelos preditivos com foco em **sistemas de recomendação**, **classificação de padrões** e **fraudes**.
-- ⚙️ **Engenharia e Orquestração de Dados**: Implementação de pipelines com **Apache Kafka**, **Apache Airflow** e integração de dados em larga escala.
-- 📡 **Streams de Dados e Monitoramento**:
-  - Uso de **Kafka** e **KSQL** para análise de dados em tempo real.
-- 📊 **Estatística Aplicada**: Validação de hipóteses, testes estatísticos e métricas para modelos preditivos.
-- 🐍 **Pythonista**: Desenvolvo soluções completas em Python, utilizando bibliotecas como `pandas`, `scikit-learn`, `TensorFlow`, `matplotlib`, entre outras.
-
-## 🚀 Algumas tecnologias com as quais trabalho
-
-- **Linguagens**: Python, SQL, NoSQL
-- **Ferramentas de Machine Learning**: Scikit-learn, TensorFlow, Keras, Pytorch
-- **Engenharia de Dados**: Apache Kafka, Airflow, Spark
-- **Visualização**: Power BI, Looker Studio, Superset
-- **DevOps e Integrações**: Docker, Git
-
+Analista de Dados
+Engenheiro de Dados
+Cientista de Dados
 ##
 
 <div>
